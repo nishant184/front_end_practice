@@ -1,0 +1,26 @@
+.image
+{
+    border-radius: 50%;
+    height:100px;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+    
+
+}
+.name1
+{
+    position: relative;
+    left:42%;
+    top: 4px;
+}
+.btn1
+{
+    position: relative;
+    left: 42%;
+    width: 100px;
+    height: 40px;
+    color:white;
+    background-color: green;
+
+}
