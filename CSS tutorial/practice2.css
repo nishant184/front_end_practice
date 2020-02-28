@@ -1,0 +1,61 @@
+body
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height:1.6em ;
+    margin:0;
+}
+.container
+{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+#headerbar
+{
+    background-color: orange;
+    color: blue;
+}
+#navbar
+{
+    background-color: black;
+    color: white;
+    height: 80px;
+
+}
+#navbar ul
+{
+    list-style: none;
+}
+#navbar li
+{
+    text-decoration: none;
+    display: inline;
+    padding-right: 20px;
+    font-size: 18 ;
+}
+#navbar a
+{
+    text-decoration: none;
+}
+#showcase
+{
+    background-image: url("./tiger.jpg");
+    height:350px;
+    margin-bottom:"30px";
+
+}
+#showcase h1
+{
+    color: white;
+    font-size:50px ;
+     line-height: 1.6em;
+
+}
+#sect2
+{
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+}
